@@ -37,14 +37,5 @@
 
 # Follow us <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-
-
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/kriss_464/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheSploit)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:indonesianweb1109@gmail.com)
-
-
-
-  </a>
-  
-  
-  
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/kriss_464/) 
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" 
+alt="Github logo" width="34">](https://github.com/THEOTHERSIDESEC)
