@@ -35,7 +35,7 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Follow us <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
@@ -43,21 +43,6 @@
 
 
 
-
-<br>
-<br>
-
-
-
-
-
-
-<!--
-  <a href="https://www.instagram.com/kriss_464/">
-    <img align="left" alt="My  | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:indonesianweb1109@gmail.com">
-    <img align="left" alt="My | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
   
